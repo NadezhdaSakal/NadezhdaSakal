@@ -28,7 +28,7 @@
 <h5 align="center">Мой стек:</h5>
 • SOLID, KISS, DRY, MVVM, MVP, MVI<br>
 • Работа с сетью и клиент-серверное взаимодействие<br>
-• Инструментарий: Android Studio, github, Figma, Firebase<br>
+• Инструменты: Android Studio, github, Figma, Firebase<br>
 • Понимание основных паттернов проектирования<br>
 • Создание адаптивного интерфейса приложения и работа с анимацией<br>
 • Clean Architecture, Retrofit, Coroutines + Flow, SQLite, Room, Dagger 2, Koin, Hilt, Jetpack Navigation Component<br>
