@@ -1,5 +1,5 @@
 <h1 align="center">Привет!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Я Надежда Сакал, и я Android Разработчик 🇷🇺</h2>
+<h2 align="center">Я Надежда Сакал, и я Android-разработчик </h2>
 
 ###
 
