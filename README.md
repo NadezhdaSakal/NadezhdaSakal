@@ -7,7 +7,6 @@
 
 ###
 
-&#9993; sakaln88@gmail.com <br>💬 https://t.me/Nadya_Sakal
 
 ###
 
